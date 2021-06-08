@@ -1,0 +1,16 @@
+name: null
+
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - pip
+  - matplotlib
+  - pandas
+  - conda-forge::scikit-learn
+  - conda-forge::xgboost
+  - scipy
+  - ffmpeg
+  - pywavelets
+  - conda-forge::ipympl
+  - conda-forge::nodejs
+  - graphviz
