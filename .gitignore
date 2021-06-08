@@ -5,4 +5,7 @@ videos/
 src/*/*
 !src/*/*.py
 !src/*/*.ipynb
-!src/*/code/*.py
+!src/*/code/
+src/*/code/*
+!src/*/code/*.ipynb
+
