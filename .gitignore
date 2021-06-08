@@ -2,5 +2,6 @@ data/
 env/
 rune/
 videos/
-!src/**/*.py
-!src/**/*.ipynb
+src/*/*
+!src/*/*.py
+!src/*/*.ipynb
